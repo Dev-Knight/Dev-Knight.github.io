@@ -2,4 +2,4 @@
 This github repository is Owned by Dev-Knight, it contains some recreated version of pre-built games.
 This repo was made just for practising HTML5 Canvas and other stuffs.
 List of games it contains:
-<ul><a>Doodle Jump</a></ul>
+<ul><a href="https://dev-knight.github.io/doodle-jump/index.html" target="_blank">Doodle Jump</a></ul>

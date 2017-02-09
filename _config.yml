@@ -7,21 +7,20 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Vedant Rathore'
+name: 'Dev Knight'
 #description: ''
 
 # Author's info
-author: 'Vedant Rathore'
+author: 'Dev Knight'
 # edit 'categories' in the front matter of every post to match this username
 nickname: vedant
 bio: 'Software developer, Programmer'
-location: 'Guwahati, India'
+location: 'Bhubaneswar, India'
 url: 'http://vedantrathore.github.io/'
 image: 'assets/images/icon.jpg'
 
-short_url: 'vedantrathore.github.io/'
-google_analytics: UA-79128552-1
-disqus: vedant
+short_url: 'dev-knight.github.io/'
+disqus: Dev-Knight
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: '/'
 

@@ -9,7 +9,7 @@ current: about
 
 
 
-**Hello World!** I am Vedant Rathore.
+**Hello World!** I am Dev Knight.
 
 I am a sophomore at [ITER Bhubaneswar](http://www.iter.ac.in/), India.
 I like to develop Web and android applications.

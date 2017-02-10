@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/sangeetm
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dev-knight.github.io
+  * I am sangeetm (https://keybase.io/sangeetm) on keybase.
+  * I have a public key with fingerprint 061C 8EFF 92B4 65AA 0121  199B ECF6 F4CC ACC2 87D6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120db039101a122d20691b29ab15b8b1ca672467b0b10a56e0c638954dbbe488b020a",
+            "fingerprint": "061c8eff92b465aa0121199becf6f4ccacc287d6",
+            "host": "keybase.io",
+            "key_id": "ecf6f4ccacc287d6",
+            "kid": "010133a246c910f5668e56364126a08c5afe8a884d5727fc27dc3076c111d1b320af0a",
+            "uid": "57e0319ffc1bf5ec194f78b106456d19",
+            "username": "sangeetm"
+        },
+        "service": {
+            "hostname": "dev-knight.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486747549,
+    "expire_in": 157680000,
+    "prev": "8e6c1fef034c0ff2784ad08539b9437673c0a4d237b80e73e345b8929ad203ca",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMN1AnicbVJrTBxVGF1Kn6sU1keiGNow0SpIl7nzuDOzkUoo1bJEAyQKFsI6jzsw
+QneX3YWClAXRQCp9WEtLjEuh9gcvWyQp9EGoXUClLYtgRbBSFKVFEgpJeUcRZ7D9
+5/1zc7+cc75zvvt1B/jr9H5TC3O9X3aW/+R301ubq0upXqwuxASbVICZCrEstHah
+bAk5XZYsRcJMGA4IXBJwkgM44AFBSAQOOSAQHC8AWmAFIPKQISjICLgAcJ6GCBch
+yXI0JQkColhWwAmcxyIwWbFmIIfdoVhdmiwEIotkmSMECtI8r7YBgOMEJMpQpkSR
+F0WCZSSoEjNtTo2hmhN4JzIqNrWmPixr9v4H/8g3DkiSV52JqnWZhpBFNCQhBQjI
+46xI8zJieZalJJohGFkkGEkkcQaKAAAJCKRqWl7znbsmRzMIJwEnyyIQZBqJgKNk
+Rk2PQ4qGEuA0oBM5rPx+pKKdvJoVufZjRRGYWs1TRKQNVkvyECGhvJ1ZViUj02XM
+UFyZucJ/uewOm8sm2rJVRKbLZXeaNAVXgV2jHECC5aGYRVCskjpPlZGHHE7FZsVM
+QEWKLkVTBxQLGYqhKS4CQ/l2xYEsioagGcji6tH6oDxVkkVqXhnJOEmJuCwTDEvx
+Es7SJCdwFMlAhhRxnpIIkhFYHDEkIin1zzn189U1IEVtPE6UY7VpLVWffIaWXcmw
+8q5cB8KKOr1p63V+et3GDeu0RdPptwQ9Wj9jUOA/sLEnqe6TYl70mPfsbfv01u6P
+JvNSrAEPEqomc8wz8CqDXmI6yy/v0m+lg1ovNDwIj5AS03K+nv+j4dz4evrD/gG/
+wANi/Vxg4fmI1d6Q5pOVF5+ge/X9R0ZHF9yr4/H7jJ+16xPe2Hwn664cev34jafv
++6a3OW2booRrEynfZ5VE9m1333n1vbLS5j2tqwfx6Gr58fnfxzpnWc9QD1NsjI0/
+lpxRcWblq7eaz3fLH18tdjfULzxnmEqMMiS3dGTfNd9fNAjRE1PtjWHWnAlw/Jnl
+roXQS086y7e+kvjUuOXyB9MXQZM7ICa2YcexGve+krHDSXPP/h3mK5hpDDIOXftO
+9kR66rYZziSY8y2DR2dBelu7wl9Y2hUX3nSrYmdXyLR+vh4WVrt7YM2IL6rqLz/v
+xh0Bw+bWL97ZMGip+1GXHl8UORK9bNgjWErDfk4Z6P31aPiKwXd7KI6xT+p+af42
+tuv1lNmR5NcywfXh1ZUTm3+wxmAdte8ucKGpVbNv30wfjPPEhDaWFfaf9Wc3MYPD
+lw72DYTUmF5c+q1i8ZQ3OWa+7EowjF06dPvzlvDTLaVpyN9/O3XoZZ8eLK9LPGtq
+PdXXXluS6v9NZe7ojc4r904Gvw8PO1PveX2n/5yh6+Pm5kfNW8Y85054q55vGnys
+8oUjwbakeXd+8O43yQ7W2L237V+8udBm
+=xHOg
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sangeetm
+
+==================================================================
